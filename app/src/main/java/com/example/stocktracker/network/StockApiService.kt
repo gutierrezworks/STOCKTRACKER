@@ -5,8 +5,8 @@ import retrofit2.http.GET
 import retrofit2.http.Header
 import retrofit2.http.Query
 
-private val API_KEY = "PKAEP52OUPGAAWVF023C"
-private val API_KEY_SECRET = "SYv5f8dpdQLodNVzhcmDejeWdTdthxO05ggTNLNa"
+private val API_KEY = ""
+private val API_KEY_SECRET = ""
 
 interface StockApiService {
 
